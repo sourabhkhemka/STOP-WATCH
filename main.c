@@ -1,5 +1,5 @@
 /*
- * receiver.c
+ * main.c
  *
  * Created: 05-11-2017 22:46:55
  * Author : SOURABH KHEMKA
