@@ -2,7 +2,7 @@
  * receiver.c
  *
  * Created: 05-11-2017 22:46:55
- * Author : USER -DELL
+ * Author : SOURABH KHEMKA
  */ 
 
 #include <avr/io.h>
@@ -179,10 +179,3 @@ unsigned char USART_Receive (void)
 	/* Get and return received data from buffer */
 	return UDR1;
 }
-
-// 		while(message[i] != '\0')
-// 		{
-	// 			USART_Transmit(message[i++]);
-	// 			//_delay_ms(500);
-// 		}
-// 		i = 0;
