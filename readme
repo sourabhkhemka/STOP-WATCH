@@ -1,0 +1,3 @@
+Stopwatch programmed on AVR board (AT90USB1287).
+The stopwatch uses 16-bit timer of the microcontroller and
+time is displayed on PC through serial communication (Xbee module)
